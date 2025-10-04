@@ -22,7 +22,7 @@ This is often used as a beginner-level JavaScript project to practice DOM manipu
 
 ## Demo
 
-You can see the project live at: 
+You can see the project live at: https://shrijan18.github.io/Dicee-Challenge/
 
 _You can host this locally or deploy via GitHub Pages._
 
@@ -98,9 +98,3 @@ To contribute, follow these steps:
 ## License
 
 This project is open source and available under the MIT License. Feel free to use, modify, and distribute.
-
-## Credits
-
-- Dice images (if not authored by you) — mention source  
-- Any tutorials or inspiration you followed  
-- Yourself! :)
